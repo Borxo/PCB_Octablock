@@ -1,6 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=ModuloServo\ModuloServo.PrjPcb
-[Project2]
 ProjectPath=Modulo Led\Modulo Led.PrjPcb
+[Project2]
+ProjectPath=Modulo Servo\Modulo Servo.PrjPcb
