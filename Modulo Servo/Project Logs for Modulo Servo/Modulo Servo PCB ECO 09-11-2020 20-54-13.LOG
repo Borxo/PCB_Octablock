@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetJP1_2 Pin=MT1-8
+Removed Pin From Net: NetName=NetJP1_3 Pin=MT1-9
+Removed Pin From Net: NetName=NetJP1_3 Pin=MT2-1
+Removed Pin From Net: NetName=NetJP1_2 Pin=MT2-4
+Added Pin To Net: NetName=NetJP1_3 Pin=MT1-8
+Added Pin To Net: NetName=NetJP1_2 Pin=MT1-9
+Added Pin To Net: NetName=NetJP1_2 Pin=MT2-1
+Added Pin To Net: NetName=NetJP1_3 Pin=MT2-4

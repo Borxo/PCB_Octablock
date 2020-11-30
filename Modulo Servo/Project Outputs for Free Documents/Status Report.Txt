@@ -1,0 +1,25 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:28:15 On 19/11/2020
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Modulo Servo.PcbDoc]
+   Generated File[Modulo Servo.GTO]
+   Generated File[Modulo Servo.GTP]
+   Generated File[Modulo Servo.GTS]
+   Generated File[Modulo Servo.GTL]
+   Generated File[Modulo Servo.GBL]
+   Generated File[Modulo Servo.GBS]
+   Generated File[Modulo Servo.GBP]
+   Generated File[Modulo Servo.GBO]
+   Generated File[Modulo Servo.GKO]
+   Generated File[Modulo Servo.RUL]
+   Generated File[Modulo Servo.EXTREP]
+   Generated File[Modulo Servo.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 3:28:17 On 19/11/2020

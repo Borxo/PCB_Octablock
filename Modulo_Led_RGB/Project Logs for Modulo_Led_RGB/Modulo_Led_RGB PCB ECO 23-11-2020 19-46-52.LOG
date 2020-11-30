@@ -1,0 +1,24 @@
+Added Component: Designator=C1(Micro-MaTch Famale 1.27mm/SMD)
+Added Component: Designator=L1(Led 5mm - RGB)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC1_3 Pin=C1-3
+Added Pin To Net: NetName=NetC1_3 Pin=L1-1
+Added Net: Name=NetC1_3
+Added Pin To Net: NetName=NetC1_4 Pin=C1-4
+Added Pin To Net: NetName=NetC1_4 Pin=L1-3
+Added Net: Name=NetC1_4
+Added Pin To Net: NetName=NetC1_5 Pin=C1-5
+Added Pin To Net: NetName=NetC1_5 Pin=L1-4
+Added Net: Name=NetC1_5
+Added Pin To Net: NetName=NetC1_6 Pin=C1-6
+Added Pin To Net: NetName=NetC1_6 Pin=C1-7
+Added Pin To Net: NetName=NetC1_6 Pin=C1-8
+Added Pin To Net: NetName=NetC1_6 Pin=C1-9
+Added Pin To Net: NetName=NetC1_6 Pin=C1-10
+Added Net: Name=NetC1_6
+Added Class: Name=Modulo_Led_RGB
+Added Room: Name=Modulo_Led_RGB

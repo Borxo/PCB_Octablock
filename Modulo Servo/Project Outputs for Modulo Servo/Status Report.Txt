@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Modulo Servo.PcbDoc]
+   Generated File[Modulo Servo.TXT]
+   Generated File[Modulo Servo.LDP]
+   Generated File[Modulo Servo.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:29:40 On 19/11/2020
