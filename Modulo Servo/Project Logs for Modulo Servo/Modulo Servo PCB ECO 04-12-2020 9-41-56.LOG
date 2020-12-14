@@ -1,0 +1,8 @@
+Added Component: Designator=Tor1(Taladro_3mm)
+Added Component: Designator=Tor2(Taladro_3mm)
+Added Component: Designator=Tor3(Taladro_3mm)
+Added Member To Class: ClassName=Modulo Servo Member=Component MT1 MT
+Added Member To Class: ClassName=Modulo Servo Member=Component Tor1 Tornillo3MM
+Added Member To Class: ClassName=Modulo Servo Member=Component Tor2 Tornillo3MM
+Added Member To Class: ClassName=Modulo Servo Member=Component Tor3 Tornillo3MM
+Added Room: Name=Modulo Servo

@@ -6,3 +6,5 @@ ProjectPath=Modulo Led\Modulo Led.PrjPcb
 ProjectPath=Modulo Servo\Modulo Servo.PrjPcb
 [Project3]
 ProjectPath=Modulo_Led_RGB\Modulo_Led_RGB.PrjPcb
+[Project4]
+ProjectPath=Modulo_Adaptador_Protoboard\Modulo_Adaptador_Protoboard.PrjPcb

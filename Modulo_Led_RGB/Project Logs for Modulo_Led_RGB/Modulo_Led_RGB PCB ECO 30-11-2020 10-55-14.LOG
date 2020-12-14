@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC1_3 Pin=L1-1
+Removed Pin From Net: NetName=NetC1_4 Pin=L1-3
+Removed Pin From Net: NetName=NetC1_5 Pin=L1-4
+Added Component: Designator=R1(1206 (3216))
+Add component (AddParameter): Name = "Autor"; Value = "Borxo García"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R2(1206 (3216))
+Add component (AddParameter): Name = "Autor"; Value = "Borxo García"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R3(1206 (3216))
+Add component (AddParameter): Name = "Autor"; Value = "Borxo García"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_3 Pin=L1-3
+Added Net: Name=NetL1_3
+Added Pin To Net: NetName=NetL1_4 Pin=L1-4
+Added Net: Name=NetL1_4
+Added Member To Class: ClassName=Modulo_Led_RGB Member=Component R1 Res
+Added Member To Class: ClassName=Modulo_Led_RGB Member=Component R2 Res
+Added Member To Class: ClassName=Modulo_Led_RGB Member=Component R3 Res
+Added Room: Name=Modulo_Led_RGB

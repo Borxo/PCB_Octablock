@@ -1,0 +1,5 @@
+Added Component: Designator=Tor1(Taladro_3mm)
+Added Component: Designator=Tor2(Taladro_3mm)
+Added Member To Class: ClassName=Modulo_Led_RGB Member=Component Tor1 Tornillo3MM
+Added Member To Class: ClassName=Modulo_Led_RGB Member=Component Tor2 Tornillo3MM
+Added Room: Name=Modulo_Led_RGB

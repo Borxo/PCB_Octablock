@@ -1,0 +1,35 @@
+Added Component: Designator=C?(Micro-MaTch Famale 1.27mm/ Hole)
+Added Component: Designator=JP1(Pin(10X2.54mm))
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=JP1-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=JP1-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetC?_3 Pin=C?-3
+Added Pin To Net: NetName=NetC?_3 Pin=JP1-3
+Added Net: Name=NetC?_3
+Added Pin To Net: NetName=NetC?_4 Pin=C?-4
+Added Pin To Net: NetName=NetC?_4 Pin=JP1-4
+Added Net: Name=NetC?_4
+Added Pin To Net: NetName=NetC?_5 Pin=C?-5
+Added Pin To Net: NetName=NetC?_5 Pin=JP1-5
+Added Net: Name=NetC?_5
+Added Pin To Net: NetName=NetC?_6 Pin=C?-6
+Added Pin To Net: NetName=NetC?_6 Pin=JP1-6
+Added Net: Name=NetC?_6
+Added Pin To Net: NetName=NetC?_7 Pin=C?-7
+Added Pin To Net: NetName=NetC?_7 Pin=JP1-7
+Added Net: Name=NetC?_7
+Added Pin To Net: NetName=NetC?_8 Pin=C?-8
+Added Pin To Net: NetName=NetC?_8 Pin=JP1-8
+Added Net: Name=NetC?_8
+Added Pin To Net: NetName=NetC?_9 Pin=C?-9
+Added Pin To Net: NetName=NetC?_9 Pin=JP1-9
+Added Net: Name=NetC?_9
+Added Pin To Net: NetName=NetC?_10 Pin=C?-10
+Added Pin To Net: NetName=NetC?_10 Pin=JP1-10
+Added Net: Name=NetC?_10
+Added Member To Class: ClassName=Modulo_Adaptador Member=Component C? Micro-MaTchF
+Added Member To Class: ClassName=Modulo_Adaptador Member=Component JP1 Pines (10X2.54)
+Added Room: Name=Modulo_Adaptador

@@ -1,0 +1,34 @@
+Added Component: Designator=C1(Micro-MaTch Famale 1.27mm/SMD)
+Added Component: Designator=JP1(Pin(10X2.54mm))
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=JP1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=JP1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC1_3 Pin=C1-3
+Added Pin To Net: NetName=NetC1_3 Pin=JP1-3
+Added Net: Name=NetC1_3
+Added Pin To Net: NetName=NetC1_4 Pin=C1-4
+Added Pin To Net: NetName=NetC1_4 Pin=JP1-4
+Added Net: Name=NetC1_4
+Added Pin To Net: NetName=NetC1_5 Pin=C1-5
+Added Pin To Net: NetName=NetC1_5 Pin=JP1-5
+Added Net: Name=NetC1_5
+Added Pin To Net: NetName=NetC1_6 Pin=C1-6
+Added Pin To Net: NetName=NetC1_6 Pin=JP1-6
+Added Net: Name=NetC1_6
+Added Pin To Net: NetName=NetC1_7 Pin=C1-7
+Added Pin To Net: NetName=NetC1_7 Pin=JP1-7
+Added Net: Name=NetC1_7
+Added Pin To Net: NetName=NetC1_8 Pin=C1-8
+Added Pin To Net: NetName=NetC1_8 Pin=JP1-8
+Added Net: Name=NetC1_8
+Added Pin To Net: NetName=NetC1_9 Pin=C1-9
+Added Pin To Net: NetName=NetC1_9 Pin=JP1-9
+Added Net: Name=NetC1_9
+Added Pin To Net: NetName=NetC1_10 Pin=C1-10
+Added Pin To Net: NetName=NetC1_10 Pin=JP1-10
+Added Net: Name=NetC1_10
+Added Class: Name=Modulo_Adaptador
+Added Room: Name=Modulo_Adaptador
